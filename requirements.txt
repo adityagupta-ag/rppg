@@ -2,7 +2,7 @@ h5py==2.10.0
 yacs==0.1.8
 scipy
 pandas==1.1.5
-scikit-images
+scikit-image
 numpy==1.22.0
 matplotlib==3.1.2
 opencv_python==4.5.2.54
